@@ -1,6 +1,6 @@
-yfinance
+sklearn
+matplotlib
 streamlit
 pandas
 numpy
-scipy
-matplotlib
+
