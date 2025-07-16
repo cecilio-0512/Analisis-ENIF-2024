@@ -34,7 +34,7 @@ st.header("Visualización de datos")
 st.dataframe(df.head())
 
 st.markdown("""
-Cada columna de la base de datos está asociada a una pregunta de la encuesta. La codificación de cada columna la puedes encontrar aquí.
+Cada columna de la base de datos está asociada a una pregunta de la encuesta. La codificación de cada columna la puedes encontrar [aquí](https://drive.google.com/file/d/1WfhWUPQ-9Ymyb5kVvhp2WqwE-TSLbhhS/view?usp=drive_link).
 """)
 
 
